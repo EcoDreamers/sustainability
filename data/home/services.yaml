@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Archetypes"
+  text: "Select your archetype that best fits you to find out how you can get started on your green journey"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/engineer-architect.png"
+      title: "Engineering & Architect"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "posts/emoji-support"
+        url: "posts/engineer"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/leader.png"
+      title: "Technology Leader"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "#"
+        url: "posts/leader"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
+    - image: "images/enthusiast.png"
+      title: "Technology Enthusiast"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "#"
+        url: "posts/enthusiast"
