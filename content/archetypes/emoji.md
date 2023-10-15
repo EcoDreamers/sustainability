@@ -6,7 +6,7 @@ description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
 ]
-persona = "portfolio" 
+persona = "engineer" 
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways. 

@@ -1,0 +1,18 @@
+enabled: true
+id: "leader"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Why"
+    title: "Problem"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "How"
+    title: "Solution"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "What"
+    title: "Deliver"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."

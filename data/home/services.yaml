@@ -10,18 +10,18 @@ content:
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "posts/engineer"
+        url: "archetypes/engineer"
 
     - image: "images/leader.png"
       title: "Technology Leader"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "posts/leader"
+        url: "archetypes/leader"
 
     - image: "images/enthusiast.png"
       title: "Technology Enthusiast"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
-        url: "posts/enthusiast"
+        url: "archetypes/enthusiast"
