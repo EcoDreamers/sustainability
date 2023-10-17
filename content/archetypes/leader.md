@@ -17,4 +17,8 @@ aliases = ["migrate-from-jekyl"]
 persona = "leader"
 +++
 
-Improves resource efficiency, ensuring long-term viability, and meeting regulatory requirements.
+
+*Delivering greener software improves our firm's social good reputation while driving down costs due to greater operational efficiency.*
+
+
+

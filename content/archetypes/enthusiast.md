@@ -16,3 +16,6 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 persona = "enthusiast"
 +++
+
+*Delivering greener software helps save the planet, but also improves the user experience of software that you use on a daily basis.*
+

@@ -7,21 +7,21 @@ content:
   cards:
     - image: "images/engineer-architect.png"
       title: "Engineering & Architect"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: ""
       button:
         label: "Learn more"
         url: "archetypes/engineer"
 
     - image: "images/leader.png"
       title: "Technology Leader"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: ""
       button:
         label: "Learn more"
         url: "archetypes/leader"
 
     - image: "images/enthusiast.png"
       title: "Technology Enthusiast"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: ""
       button:
         label: "Learn more"
         url: "archetypes/enthusiast"

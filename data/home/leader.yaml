@@ -5,14 +5,14 @@ content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Why"
     title: "Problem"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "We've all seen the news about climate change.  But, did you know that digital technology accounts for around 3% of global Green House Gas (GHG) emissions? Also, every year JP Morgan produces 730,171 mtCO2e per year (approx. 73 times traveling round the earth on a plane).  This is unsustainable.  There are several green initiatives within the firm, but none are looking at the carbon emissions of our software."
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "How"
     title: "Solution"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "We created a framework to measure, analyze and identify key findings on how to improve the greenness of software applications.  The Carbon Reduction Lifecycle allows us (EcoDreamers) to generate, collect, and analyze application carbon data."
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "What"
     title: "Steps"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    text: "We are looking for investment to expand our research and implement a firmwide transparent process to improve the operational efficiency of our applications and lead the field in sustainable technology."
